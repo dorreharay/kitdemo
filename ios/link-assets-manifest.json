@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/CraftworkGrotesk-Bold.ttf",
+      "sha1": "5bd748f1657c470385fe9acd89f5f70fc2b9e351"
+    },
+    {
+      "path": "assets/fonts/CraftworkGrotesk-Medium.ttf",
+      "sha1": "47582f1d0001b5c9e0df563321815828883b4912"
+    },
+    {
+      "path": "assets/fonts/CraftworkGrotesk-Regular.ttf",
+      "sha1": "bcca7e51d53fab2cb3381eeaf115842664a28942"
+    },
+    {
+      "path": "assets/fonts/CraftworkGrotesk-SemiBold.ttf",
+      "sha1": "c487b09d9432e01b572a410affd6a5a3a860974c"
+    }
+  ]
+}
